@@ -14,3 +14,5 @@
 /src/Eventos.IO.Domain/obj/Debug/netcoreapp2.0
 /src/Eventos.IO.Domain/bin/Debug/netcoreapp2.0
 /src/Eventos.IO.Domain/bin/Debug/netstandard2.0
+/src/Eventos.IO.Domain.Core/bin/Debug/netstandard2.0
+/src/Eventos.IO.Domain.Core/obj
