@@ -6,7 +6,7 @@
 /.vs/config/applicationhost.config
 /.vs/Eventos.IO/v15/Server/sqlite3/db.lock
 /.vs/*
-/src/Eventos.IO.Domain/obj/*
-/src/Eventos.IO.Domain/bin/Debug/*
-/src/Eventos.IO.Domain.Core/obj/*
-/src/Eventos.IO.Domain.Core/bin/Debug/*
+/Eventos.IO.Domain/obj/*
+/Eventos.IO.Domain/bin/Debug/*
+/Eventos.IO.Domain.Core/obj/*
+/Eventos.IO.Domain.Core/bin/Debug/*
