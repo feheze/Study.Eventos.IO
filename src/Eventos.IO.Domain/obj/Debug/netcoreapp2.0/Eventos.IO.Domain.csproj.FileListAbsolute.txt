@@ -1,0 +1,9 @@
+C:\Users\fehrz\source\repos\Study.Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netcoreapp2.0\Eventos.IO.Domain.deps.json
+C:\Users\fehrz\source\repos\Study.Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netcoreapp2.0\Eventos.IO.Domain.dll
+C:\Users\fehrz\source\repos\Study.Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netcoreapp2.0\Eventos.IO.Domain.pdb
+C:\Users\fehrz\source\repos\Study.Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netcoreapp2.0\Eventos.IO.Domain.csprojResolveAssemblyReference.cache
+C:\Users\fehrz\source\repos\Study.Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netcoreapp2.0\Eventos.IO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fehrz\source\repos\Study.Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netcoreapp2.0\Eventos.IO.Domain.AssemblyInfoInputs.cache
+C:\Users\fehrz\source\repos\Study.Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netcoreapp2.0\Eventos.IO.Domain.AssemblyInfo.cs
+C:\Users\fehrz\source\repos\Study.Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netcoreapp2.0\Eventos.IO.Domain.dll
+C:\Users\fehrz\source\repos\Study.Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netcoreapp2.0\Eventos.IO.Domain.pdb
