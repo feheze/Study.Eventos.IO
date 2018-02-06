@@ -7,3 +7,6 @@
 /.vs/Eventos.IO/v15/Server/sqlite3/db.lock
 /.vs/*
 /src/Eventos.IO.Domain/obj/*
+/src/Eventos.IO.Domain/Debug/*
+/src/Eventos.IO.Domain.Core/obj/*
+/src/Eventos.IO.Domain.Core/Debug/*
