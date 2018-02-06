@@ -182,8 +182,8 @@
     },
     "Eventos.IO.Domain.Core/1.0.0": {
       "type": "project",
-      "path": "../../Eventos.IO.Domain.Core/Eventos.IO.Domain.Core.csproj",
-      "msbuildProject": "../../Eventos.IO.Domain.Core/Eventos.IO.Domain.Core.csproj"
+      "path": "../Eventos.IO.Domain.Core/Eventos.IO.Domain.Core.csproj",
+      "msbuildProject": "../Eventos.IO.Domain.Core/Eventos.IO.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -225,8 +225,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\fehrz\\Source\\Repos\\Study.Eventos.IO\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\fehrz\\Source\\Repos\\Study.Eventos.IO\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj"
+            "C:\\Users\\fehrz\\Source\\Repos\\Study.Eventos.IO\\src\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\fehrz\\Source\\Repos\\Study.Eventos.IO\\src\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj"
             }
           }
         }
