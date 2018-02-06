@@ -2,9 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Eventos.IO.Domain",
-    "\\tests"
+    "\\src\\Eventos.IO.Domain"
   ],
-  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }

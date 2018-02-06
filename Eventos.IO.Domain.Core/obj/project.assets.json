@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\fehrz\\source\\repos\\Study.Eventos.IO\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj",
+      "projectUniqueName": "C:\\Users\\fehrz\\Source\\Repos\\Study.Eventos.IO\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj",
       "projectName": "Eventos.IO.Domain.Core",
-      "projectPath": "C:\\Users\\fehrz\\source\\repos\\Study.Eventos.IO\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj",
+      "projectPath": "C:\\Users\\fehrz\\Source\\Repos\\Study.Eventos.IO\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\fehrz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fehrz\\source\\repos\\Study.Eventos.IO\\Eventos.IO.Domain.Core\\obj\\",
+      "outputPath": "C:\\Users\\fehrz\\Source\\Repos\\Study.Eventos.IO\\Eventos.IO.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
