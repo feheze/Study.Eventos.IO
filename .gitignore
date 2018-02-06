@@ -4,4 +4,3 @@
 
 *.suo
 /.vs/config/applicationhost.config
-/.vs/Eventos.IO/v15/Server/sqlite3/db.lock
